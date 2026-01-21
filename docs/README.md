@@ -6,11 +6,11 @@ PyTorch models for microscopy images to predict:
 
 This repo contains the project **notebook + report**. The dataset and trained weights are **not included**.
 
-## Results (from report)
+## Results
 - **Pose**: 0.88 test accuracy (F1 ≈ 0.88)
 - **Depth**: RMSE 0.137, R² 0.983
 
-## Approach (high level)
+## Approach
 - Benchmarked custom CNN variants (V1/V2/V3) against **ResNet18**
 - Used validation-based model selection (**early stopping**)
 - Performed error analysis on failure cases where similar poses created depth ambiguity
