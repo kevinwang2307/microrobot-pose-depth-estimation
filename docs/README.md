@@ -16,9 +16,9 @@ This repo contains the project **notebook + report**. The dataset and trained we
 - Performed error analysis on failure cases where similar poses created depth ambiguity
 
 ## Repository contents
-- `notebooks/microrobot_pose_depth.ipynb` — training, evaluation, and analysis
-- `report.pdf` — full write-up and results
-- `saved_models/` — local checkpoints (gitignored)
+- `notebooks/microrobot_pose_depth.ipynb` - training, evaluation, and analysis
+- `report.pdf` - full write-up and results
+- `saved_models/` - local checkpoints (gitignored)
 
 ## Setup
 ```bash
