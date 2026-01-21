@@ -1,0 +1,6 @@
+saved_models/
+data/
+**/.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+*.zip
